@@ -2,7 +2,7 @@ import sys
 
 def main():
     if len(sys.argv) != 2:
-        print("RTFM (Read the F-ing manual)")
+        print("RTFM ("none")
     return
 
     param = sys.argv[1]
